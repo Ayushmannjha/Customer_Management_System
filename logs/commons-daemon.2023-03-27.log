@@ -1,0 +1,6 @@
+[2023-03-27 13:13:51] [info]  [ 6224] Apache Commons Daemon procrun (1.3.3.0 64-bit) started.
+[2023-03-27 13:13:51] [info]  [ 6224] Running Service 'Tomcat9'...
+[2023-03-27 13:13:51] [info]  [10348] Starting service...
+[2023-03-27 13:13:53] [info]  [10348] Service started in 1439 milliseconds.
+[2023-03-27 13:57:21] [info]  [15956] Console CTRL+BREAK event signaled.
+[2023-03-27 14:03:36] [info]  [14176] Console CTRL+BREAK event signaled.
